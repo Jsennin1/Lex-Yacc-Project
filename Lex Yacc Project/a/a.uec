@@ -1,0 +1,11 @@
+main {
+read x;
+read y;
+read a;
+read b;
+print x + y * a / b; 
+print (x + y) * a / b;
+print x - y * a % b;
+print x / y - a * b;
+print (x % y + a) - b;
+}
